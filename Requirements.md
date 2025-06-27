@@ -1,4 +1,5 @@
 #CookieOS
+#load into python 3.0 or above
 
 import os
 import sys
